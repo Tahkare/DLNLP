@@ -1,5 +1,5 @@
 # DLNLP
-Le notebook "ftt" n'est pas commenté mais contient les modifications pour utiliser le fast embedding. Or, du à la taille du fichier qui contient le modèle pré-entrainé, il n'était pas possible de le mettre sur github
+Le notebook "fte" n'est pas commenté mais contient les modifications pour utiliser le fast embedding. Or, du à la taille du fichier qui contient le modèle pré-entrainé, il n'était pas possible de le mettre sur github
 
 Pour exécuter notre code, il suffit de faire tourner le notebook.
 
